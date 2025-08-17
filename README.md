@@ -1,8 +1,6 @@
 # SuperStocks 📈
 
-<video src="demo.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/nicholas0704/super-stocks/blob/main/demo.mp4?raw=true
 
 A modern stock market analysis and visualization application built with Next.js, React, and Tailwind CSS.
 
