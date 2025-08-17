@@ -1,13 +1,15 @@
 # SuperStocks 📈
 
-https://github.com/homanp/super-stocks/assets/2464556/926fcda6-d9a1-49b6-8a10-02a4b1672de2
+A modern stock market analysis and visualization application built with Next.js, React, and Tailwind CSS.
 
-This project is a POC on how to run custom functions/tools with [Superagent.sh](https://github.com/homanp/superagent). 
-
-Big thanks to [Alpha Vantage](https://www.alphavantage.co/) for sponsoring us with access to their API.
+## Features
+- Real-time stock data visualization
+- Interactive charts and analytics
+- Modern, responsive UI design
+- Dark/light theme support
 
 ## Demo
-[https://super-stocks.vercel.app](https://super-stocks.vercel.ap)
+[https://super-stocks.vercel.app](https://super-stocks.vercel.app)
 
 ## Getting Started
 1. Install dependencies:
@@ -15,7 +17,7 @@ Big thanks to [Alpha Vantage](https://www.alphavantage.co/) for sponsoring us wi
   npm i 
   ```
 
-2. Change `.env.example` to `.env` and fill out the variables
+2. Change `.env.example` to `.env` and fill out the variables
 
 3. Then run the development server:
 
