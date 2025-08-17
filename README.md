@@ -1,6 +1,6 @@
 # SuperStocks 📈
 
-https://github.com/nicholas0704/super-stocks/blob/main/demo.mp4?raw=true
+https://drive.google.com/file/d/1IAMwRqen45DtvrSOw-aMP4xfV2rnA3e6/view?usp=sharing
 
 A modern stock market analysis and visualization application built with Next.js, React, and Tailwind CSS.
 
